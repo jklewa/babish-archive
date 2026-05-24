@@ -202,7 +202,7 @@
   },
   {
     "reference_id": 652,
-    "type": null,
+    "type": "tv_show",
     "name": "America's Test Kitchen",
     "description": null,
     "external_link": null,
@@ -594,7 +594,7 @@
   },
   {
     "reference_id": 650,
-    "type": null,
+    "type": "youtube_channel",
     "name": "Bigger Bolder Baking",
     "description": null,
     "external_link": null,
@@ -674,7 +674,7 @@
   },
   {
     "reference_id": 643,
-    "type": null,
+    "type": "tv_show",
     "name": "Bluey",
     "description": null,
     "external_link": null,
@@ -1454,7 +1454,7 @@
   },
   {
     "reference_id": 574,
-    "type": null,
+    "type": "movie",
     "name": "Drop",
     "description": null,
     "external_link": null,
@@ -2264,7 +2264,7 @@
   },
   {
     "reference_id": 651,
-    "type": null,
+    "type": "movie",
     "name": "Home Alone 2: Lost in New York",
     "description": null,
     "external_link": null,
@@ -3225,7 +3225,7 @@
   },
   {
     "reference_id": 644,
-    "type": null,
+    "type": "movie",
     "name": "Mean Girls",
     "description": null,
     "external_link": null,
@@ -3450,7 +3450,7 @@
   },
   {
     "reference_id": 656,
-    "type": null,
+    "type": "movie",
     "name": "Napoleon Dynamite",
     "description": null,
     "external_link": null,
@@ -4333,7 +4333,7 @@
   },
   {
     "reference_id": 640,
-    "type": null,
+    "type": "movie",
     "name": "Shrek 2",
     "description": null,
     "external_link": null,
@@ -4405,7 +4405,7 @@
   },
   {
     "reference_id": 530,
-    "type": null,
+    "type": "movie",
     "name": "Spider-Man",
     "description": null,
     "external_link": null,
@@ -6159,7 +6159,7 @@
   },
   {
     "reference_id": 657,
-    "type": null,
+    "type": "movie",
     "name": "Willy Wonka & the Chocolate Factory",
     "description": null,
     "external_link": null,
