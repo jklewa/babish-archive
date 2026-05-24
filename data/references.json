@@ -133,7 +133,7 @@
     "reference_id": 609,
     "type": "movie",
     "name": "Amadeus",
-    "description": "Miloš Forman's 1984 biographical drama about Wolfgang Amadeus Mozart, told from Salieri's perspective.",
+    "description": "Milo\u0161 Forman's 1984 biographical drama about Wolfgang Amadeus Mozart, told from Salieri's perspective.",
     "external_link": null,
     "image_link": null,
     "episodes_inspired": [
@@ -150,14 +150,14 @@
   {
     "reference_id": 63,
     "type": "movie",
-    "name": "Amélie",
-    "description": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love. IMDb.",
+    "name": "Am\u00e9lie",
+    "description": "Am\u00e9lie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0211915/",
     "image_link": "https://img.youtube.com/vi/ApmwOOjadYI/mqdefault.jpg",
     "episodes_inspired": [
       {
         "episode_id": "cremebrule",
-        "name": "Crème Brûlée inspired by Amelie",
+        "name": "Cr\u00e8me Br\u00fbl\u00e9e inspired by Amelie",
         "published_date": "2018-04-03",
         "youtube_link": "https://www.youtube.com/watch?v=dn_aaxZIA2o",
         "official_link": "https://www.babi.sh/recipes/cremebrule",
@@ -488,7 +488,7 @@
         "episode_id": "roast-beef-inspired-by-attack-on-titan",
         "name": "Roast Beef inspired by Attack on Titan",
         "published_date": "2022-03-29",
-        "youtube_link": "https://www.youtube.com/watch?v=QXIqgNMQw2w&t=566s",
+        "youtube_link": "https://www.youtube.com/watch?v=QXIqgNMQw2w",
         "official_link": "https://www.babi.sh/recipes/roast-beef-inspired-by-attack-on-titan",
         "image_link": "https://res.cloudinary.com/dd27yihoo/image/upload/v1728311451/f3j7tmnzhcxabbmdo8dm.webp"
       }
@@ -584,7 +584,7 @@
     "episodes_inspired": [
       {
         "episode_id": "thegreystuff",
-        "name": "The Grey Stuff; and other Hors d’Oeuvres inspired by Beauty and the Beast",
+        "name": "The Grey Stuff; and other Hors d\u2019Oeuvres inspired by Beauty and the Beast",
         "published_date": "2019-01-01",
         "youtube_link": "https://www.youtube.com/watch?v=0TvBiF9S89Q",
         "official_link": "https://www.babi.sh/recipes/thegreystuff",
@@ -724,7 +724,7 @@
       },
       {
         "episode_id": "teddybrulee",
-        "name": "Teddy Brûlée from Bob's Burgers",
+        "name": "Teddy Br\u00fbl\u00e9e from Bob's Burgers",
         "published_date": "2019-05-14",
         "youtube_link": "https://www.youtube.com/watch?v=6pXjR0JyV0s",
         "official_link": "https://www.babi.sh/recipes/teddybrulee",
@@ -759,8 +759,8 @@
   {
     "reference_id": 77,
     "type": "other",
-    "name": "Bon Appétit's It's Alive With Brad",
-    "description": "A Bon Appétit cooking series hosted by Brad Leone",
+    "name": "Bon App\u00e9tit's It's Alive With Brad",
+    "description": "A Bon App\u00e9tit cooking series hosted by Brad Leone",
     "external_link": null,
     "image_link": "https://img.youtube.com/vi/zr8wAm7i-vo/mqdefault.jpg",
     "episodes_inspired": [
@@ -784,7 +784,7 @@
     "episodes_inspired": [
       {
         "episode_id": "super-hot-n'-spicy-burger-inspired-by-boruto:-naruto-next-generations",
-        "name": "Super Hot N’ Spicy Burger inspired by Boruto: Naruto Next Generations",
+        "name": "Super Hot N\u2019 Spicy Burger inspired by Boruto: Naruto Next Generations",
         "published_date": "2023-04-06",
         "youtube_link": "https://www.youtube.com/watch?v=WHRob85NXP0",
         "official_link": "https://www.babi.sh/recipes/super-hot-n'-spicy-burger-inspired-by-boruto:-naruto-next-generations",
@@ -1054,7 +1054,7 @@
         "episode_id": "spaghetti-all'assassina-inspired-by-claudia-romeo",
         "name": "Spaghetti all'Assassina inspired by Claudia Romeo",
         "published_date": "2024-06-04",
-        "youtube_link": "https://www.youtube.com/watch?v=nif3ruAbUaY&ab_channel=BabishCulinaryUniverse",
+        "youtube_link": "https://www.youtube.com/watch?v=nif3ruAbUaY",
         "official_link": "https://www.babi.sh/recipes/spaghetti-all'assassina-inspired-by-claudia-romeo",
         "image_link": "https://res.cloudinary.com/dd27yihoo/image/upload/v1749062828/f3fjxq7gfexxtsl1r7ve.webp"
       }
@@ -1160,7 +1160,7 @@
     "reference_id": 600,
     "type": "tv_show",
     "name": "Cowboy Bebop",
-    "description": "1998 Sunrise space-western anime by Shinichirō Watanabe.",
+    "description": "1998 Sunrise space-western anime by Shinichir\u014d Watanabe.",
     "external_link": null,
     "image_link": null,
     "episodes_inspired": [
@@ -1294,7 +1294,7 @@
     "reference_id": 594,
     "type": "tv_show",
     "name": "Demon Slayer",
-    "description": "Ufotable anime adapting Koyoharu Gotouge's manga about demon-hunters in Taishō-era Japan.",
+    "description": "Ufotable anime adapting Koyoharu Gotouge's manga about demon-hunters in Taish\u014d-era Japan.",
     "external_link": null,
     "image_link": null,
     "episodes_inspired": [
@@ -1446,7 +1446,7 @@
         "episode_id": "demon-burger-inspired-by-dragon-ball-daima",
         "name": "Demon Burger inspired by Dragon Ball Daima",
         "published_date": "2025-03-12",
-        "youtube_link": "https://www.youtube.com/watch?v=VB4u7Ix_DyU&ab_channel=BabishCulinaryUniverse",
+        "youtube_link": "https://www.youtube.com/watch?v=VB4u7Ix_DyU",
         "official_link": "https://www.babi.sh/recipes/demon-burger-inspired-by-dragon-ball-daima",
         "image_link": "https://res.cloudinary.com/dd27yihoo/image/upload/v1741816286/ocl7weafskz6wdv9tjhw.webp"
       }
@@ -1464,7 +1464,7 @@
         "episode_id": "3-course-dinner-inspired-by-drop",
         "name": "3 Course Dinner inspired by Drop",
         "published_date": "2025-05-03",
-        "youtube_link": "https://www.youtube.com/watch?v=23lKOTVYRGc&t=673s&ab_channel=BabishCulinaryUniverse",
+        "youtube_link": "https://www.youtube.com/watch?v=23lKOTVYRGc",
         "official_link": "https://www.babi.sh/recipes/3-course-dinner-inspired-by-drop",
         "image_link": "https://res.cloudinary.com/dd27yihoo/image/upload/v1746310289/sxhsw0jiihdjo9tibmw5.webp"
       }
@@ -1760,7 +1760,7 @@
       },
       {
         "episode_id": "souffle-pancakes-inspired-by-food-wars!",
-        "name": "Soufflé Pancakes inspired by Food Wars!",
+        "name": "Souffl\u00e9 Pancakes inspired by Food Wars!",
         "published_date": "2022-05-12",
         "youtube_link": "https://www.youtube.com/watch?v=kFr6GxEnOJQ",
         "official_link": "https://www.babi.sh/recipes/souffle-pancakes-inspired-by-food-wars!",
@@ -1940,7 +1940,7 @@
         "episode_id": "egg-salad-inspired-by-futurama",
         "name": "Egg Salad inspired by Futurama",
         "published_date": "2024-11-28",
-        "youtube_link": "https://www.youtube.com/watch?v=cgLi9t6w9Qc&ab_channel=BabishCulinaryUniverse",
+        "youtube_link": "https://www.youtube.com/watch?v=cgLi9t6w9Qc",
         "official_link": "https://www.babi.sh/recipes/egg-salad-inspired-by-futurama",
         "image_link": "https://res.cloudinary.com/dd27yihoo/image/upload/v1741383035/fhpr01pnfwh4o1lpeje9.webp"
       },
@@ -1982,7 +1982,7 @@
         "episode_id": "direwolfbread",
         "name": "Direwolf Bread from Game of Thrones (feat. Maisie Williams)",
         "published_date": "2018-09-25",
-        "youtube_link": "https://www.youtube.com/watch?v=6nuEgc2RVWo&t=336s",
+        "youtube_link": "https://www.youtube.com/watch?v=6nuEgc2RVWo",
         "official_link": "https://www.babi.sh/recipes/direwolfbread",
         "image_link": "https://res.cloudinary.com/dd27yihoo/image/upload/v1681715486/babishImages/undefined-265303.png"
       },
@@ -2060,17 +2060,9 @@
         "episode_id": "sausage-inspired-by-god-of-war",
         "name": "Sausage from God of War: Ragnarok",
         "published_date": "2022-11-29",
-        "youtube_link": "https://www.youtube.com/watch?v=1tU6R3ySgpE&t=4s",
+        "youtube_link": "https://www.youtube.com/watch?v=1tU6R3ySgpE",
         "official_link": "https://www.babi.sh/recipes/sausage-inspired-by-god-of-war",
         "image_link": "https://res.cloudinary.com/dd27yihoo/image/upload/v1758908643/hn5qmpoo3baybjk4ax2g.webp"
-      },
-      {
-        "episode_id": "sausages-ragnarok",
-        "name": "Sausages inspired by God of War: Ragnarok",
-        "published_date": "2022-11-29",
-        "youtube_link": "https://www.youtube.com/watch?v=1tU6R3ySgpE",
-        "official_link": "https://www.babi.sh/recipes/sausages-ragnarok",
-        "image_link": "https://res.cloudinary.com/dd27yihoo/image/upload/v1681695881/babishImages/undefined-223760.png"
       },
       {
         "episode_id": "being-with-babish-4",
@@ -2442,7 +2434,7 @@
     "reference_id": 103,
     "type": "movie",
     "name": "I Love You, Man",
-    "description": "Friendless Peter Klaven goes on a series of man-dates to find a Best Man for his wedding. But, when his insta-bond with his new B.F.F. puts a strain on his relationship with his fiancée, can the trio learn to live happily ever after? IMDb.",
+    "description": "Friendless Peter Klaven goes on a series of man-dates to find a Best Man for his wedding. But, when his insta-bond with his new B.F.F. puts a strain on his relationship with his fianc\u00e9e, can the trio learn to live happily ever after? IMDb.",
     "external_link": "https://www.imdb.com/title/tt1155056/",
     "image_link": "https://img.youtube.com/vi/1RYUfEowXgc/mqdefault.jpg",
     "episodes_inspired": [
@@ -2636,7 +2628,7 @@
         "episode_id": "chicken-meatball-hotpot-inspired-by-jujutsu-kaisen",
         "name": "Chicken Meatball Hotpot inspired By Jujutsu Kaisen",
         "published_date": "2024-10-02",
-        "youtube_link": "https://www.youtube.com/watch?v=GymqadVYSXk&t=34s",
+        "youtube_link": "https://www.youtube.com/watch?v=GymqadVYSXk",
         "official_link": "https://www.babi.sh/recipes/chicken-meatball-hotpot-inspired-by-jujutsu-kaisen",
         "image_link": "https://res.cloudinary.com/dd27yihoo/image/upload/v1727887830/cnkxewktxghxefrnq6xa.webp"
       },
@@ -2680,7 +2672,7 @@
         "episode_id": "cheesecake-inspired-by-junior's-cheesecakes",
         "name": "Cheesecake inspired by Junior's Cheesecakes",
         "published_date": "2025-03-11",
-        "youtube_link": "https://www.youtube.com/watch?v=gQeY_wx9bsI&t=26s&ab_channel=BabishCulinaryUniverse",
+        "youtube_link": "https://www.youtube.com/watch?v=gQeY_wx9bsI",
         "official_link": "https://www.babi.sh/recipes/cheesecake-inspired-by-junior's-cheesecakes",
         "image_link": "https://res.cloudinary.com/dd27yihoo/image/upload/v1741657095/qjrimy3opynb08w9zudl.webp"
       }
@@ -2850,7 +2842,7 @@
     "reference_id": 566,
     "type": "other",
     "name": "Korean Street Food",
-    "description": "Cuisine category — street vendor food traditionally found in Korean markets and pojangmacha tents.",
+    "description": "Cuisine category \u2014 street vendor food traditionally found in Korean markets and pojangmacha tents.",
     "external_link": null,
     "image_link": null,
     "episodes_inspired": [
@@ -3582,7 +3574,7 @@
       },
       {
         "episode_id": "one-piece-tuna-saute",
-        "name": "Sanji’s Tuna Saute Inspired by One Piece",
+        "name": "Sanji\u2019s Tuna Saute Inspired by One Piece",
         "published_date": "2024-02-01",
         "youtube_link": "https://youtu.be/_rk1Foi8E8g",
         "official_link": "https://www.babi.sh/recipes/one-piece-tuna-saute",
@@ -3702,7 +3694,7 @@
         "episode_id": "theswanson",
         "name": "The Swanson inspired by Parks and Recreation",
         "published_date": "2019-03-26",
-        "youtube_link": "https://www.youtube.com/watch?v=aLpPZlVsny0&ab_channel=BabishCulinaryUniverse",
+        "youtube_link": "https://www.youtube.com/watch?v=aLpPZlVsny0",
         "official_link": "https://www.babi.sh/recipes/theswanson",
         "image_link": "https://res.cloudinary.com/dd27yihoo/image/upload/v1681696306/babishImages/undefined-957001.png"
       },
@@ -3835,14 +3827,14 @@
   {
     "reference_id": 18,
     "type": "tv_show",
-    "name": "Pokémon",
+    "name": "Pok\u00e9mon",
     "description": "Follows the adventure of Satoshi with his Pokemon, Pikachu and his friends to become the Pokemon master. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0168366/",
     "image_link": "https://i.ytimg.com/sh/4bgqxQYF1YfDZQfSfcg98Q/market.jpg",
     "episodes_inspired": [
       {
         "episode_id": "brocksdonuts",
-        "name": "Brock's Donuts inspired by Pokémon",
+        "name": "Brock's Donuts inspired by Pok\u00e9mon",
         "published_date": "2019-04-02",
         "youtube_link": "https://www.youtube.com/watch?v=RentKWlhUXc",
         "official_link": "https://www.babi.sh/recipes/brocksdonuts",
@@ -3850,7 +3842,7 @@
       },
       {
         "episode_id": "brocksonigiri",
-        "name": "Brock's Onigiri inspired by Pokémon",
+        "name": "Brock's Onigiri inspired by Pok\u00e9mon",
         "published_date": "2019-04-02",
         "youtube_link": "https://www.youtube.com/watch?v=gW4PCfLzTYA&quot;,&quot;width&quot;:854,&quot;height&quot;:480,&quot;providerName&quot;:&quot;YouTube&quot;,&quot;thumbnailUrl&quot;:&quot;https://i.ytimg.com/vi/gW4PCfLzTYA/hqdefault.jpg&quot;,&quot;resolvedBy&quot;:&quot;youtube&quot;&#125;",
         "official_link": "https://www.babi.sh/recipes/brocksonigiri",
@@ -3861,14 +3853,14 @@
   {
     "reference_id": 580,
     "type": "video_game",
-    "name": "Pokémon Sword",
-    "description": "Game Freak's 2019 Pokémon entry for Nintendo Switch (paired with Pokémon Shield).",
+    "name": "Pok\u00e9mon Sword",
+    "description": "Game Freak's 2019 Pok\u00e9mon entry for Nintendo Switch (paired with Pok\u00e9mon Shield).",
     "external_link": null,
     "image_link": null,
     "episodes_inspired": [
       {
         "episode_id": "pasta-curry-inspired-by-pokemon-sword-and-shield",
-        "name": "Pasta Curry from Pokémon Sword and Shield",
+        "name": "Pasta Curry from Pok\u00e9mon Sword and Shield",
         "published_date": "2022-09-29",
         "youtube_link": "https://www.youtube.com/watch?v=6G6gDOZie_c&pp=ygUccGFzdGEgY3VycnkgYW5pbWUgd2l0aCBhbHZpbg%3D%3D",
         "official_link": "https://www.babi.sh/recipes/pasta-curry-inspired-by-pokemon-sword-and-shield",
@@ -4121,7 +4113,7 @@
         "episode_id": "rick-and-morty-every-burger",
         "name": "The Every Burger from Rick and Morty",
         "published_date": "2023-11-28",
-        "youtube_link": "https://www.youtube.com/watch?v=2AXPSCQHiFY&t=76s",
+        "youtube_link": "https://www.youtube.com/watch?v=2AXPSCQHiFY",
         "official_link": "https://www.babi.sh/recipes/rick-and-morty-every-burger",
         "image_link": "https://res.cloudinary.com/dd27yihoo/image/upload/v1702316383/qmpaeofibbkukt7ee1ei.webp"
       },
@@ -4333,7 +4325,7 @@
         "episode_id": "the-egg-bar-inspired-by-severance",
         "name": "The Egg Bar inspired by Severance",
         "published_date": "2025-02-05",
-        "youtube_link": "https://www.youtube.com/watch?v=pTt4BjY34gk&t=151s&ab_channel=BabishCulinaryUniverse",
+        "youtube_link": "https://www.youtube.com/watch?v=pTt4BjY34gk",
         "official_link": "https://www.babi.sh/recipes/the-egg-bar-inspired-by-severance",
         "image_link": "https://res.cloudinary.com/dd27yihoo/image/upload/v1738792005/emlcx8fw10frbl32t7lq.webp"
       }
@@ -4899,7 +4891,7 @@
     "episodes_inspired": [
       {
         "episode_id": "crepessuzette",
-        "name": "Crêpes Suzette inspired by Talladega Nights",
+        "name": "Cr\u00eapes Suzette inspired by Talladega Nights",
         "published_date": "2019-10-22",
         "youtube_link": "https://www.youtube.com/watch?v=Z1kR6SIr1XA",
         "official_link": "https://www.babi.sh/recipes/crepessuzette",
@@ -5025,7 +5017,7 @@
     "episodes_inspired": [
       {
         "episode_id": "aristocats",
-        "name": "Crème de la Crème à la Edgar inspired by The Aristocats",
+        "name": "Cr\u00e8me de la Cr\u00e8me \u00e0 la Edgar inspired by The Aristocats",
         "published_date": "2019-01-23",
         "youtube_link": "https://www.youtube.com/watch?v=zNY-qzp7pD0",
         "official_link": "https://www.babi.sh/recipes/aristocats",
@@ -5543,7 +5535,7 @@
       },
       {
         "episode_id": "michaelscottpretzel",
-        "name": "Michael Scott’s Pretzel inspired by The Office",
+        "name": "Michael Scott\u2019s Pretzel inspired by The Office",
         "published_date": "2017-10-17",
         "youtube_link": "https://www.youtube.com/watch?v=NHA9Ffaal2M&amp;t=252s",
         "official_link": "https://www.babi.sh/recipes/michaelscottpretzel",
@@ -6033,7 +6025,7 @@
         "episode_id": "giant-onigiri-inspired-by-cooking-from-valkyries",
         "name": "Giant Onigiri from Cooking with Valkyries | Anime with Alvin",
         "published_date": "2022-06-23",
-        "youtube_link": "https://www.youtube.com/watch?v=D1sZtLbZhMA&t=1s",
+        "youtube_link": "https://www.youtube.com/watch?v=D1sZtLbZhMA",
         "official_link": "https://www.babi.sh/recipes/giant-onigiri-inspired-by-cooking-from-valkyries",
         "image_link": "https://res.cloudinary.com/dd27yihoo/image/upload/v1728311822/ewvbv28ma72qcygpzrol.webp"
       }
